@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f9;
+  }
+  
+   .dashboard {
+    flex-direction: column;
+    background: white;
+    padding: 2rem;
+    /* border-radius: 8px; */
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+    text-align: center;
+    width: 500px;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    color: #333;
+    font-size: 1.5rem;
+  }
+  
+  
+  
+  
+
+  
